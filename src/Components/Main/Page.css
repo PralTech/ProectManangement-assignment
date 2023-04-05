@@ -1,0 +1,192 @@
+.collapsed-journey-board {
+  /* Collapsed Journey board */
+  position: relative;
+  width: 1440px;
+  height: 1805px;
+  background: #FFFFFF;
+}
+.navbar {
+  /* navbar */
+  position: absolute;
+  width: 1440px;
+  height: 90px;
+  left: 0px;
+  top: 0px;
+  background: #F0F0F0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+/* .container{
+
+} */
+.left{
+  /* Rectangle 1879 */
+position: absolute;
+width: 132px;
+height: 742px;
+left: 0px;
+top: 90px;
+background: #FFFFFF;
+box-shadow: 1px 4px 4px 1px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+.u-left {
+  /* Rectangle 1874 */
+  height: 50px;
+  width: 132px;
+  left: 0px;
+  top: 90px;
+  border-radius: [object Object]px;  
+  left: 0%;
+  right: 90.83%;
+  top: 4.99%;
+  bottom: 92.24%;
+  background: #000000;
+  border-radius: 0px 20px 0px 0px;
+}
+.b-left{
+height: 692px;
+width: 132px;
+left: 0px;
+top: 140px;
+border-radius: [object Object]px;
+margin: auto;
+}
+.round{
+margin: auto;
+box-sizing: border-box;
+width: 68px;
+height: 68px;
+border: 1px solid #0029FF;
+border-radius: 20px;
+}
+.number{
+width: 12px;
+height: 54px;
+margin: auto;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+letter-spacing: 0.02em;
+color: #0029FF;
+}
+.right{
+  display: flex;
+}
+.heading{
+/* Technical Project Management */
+position: absolute;
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 466px;
+height: 42px;
+left: 187px;
+top: 108px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+letter-spacing: 0.02em;
+color: #0029FF;
+}
+.submit{
+height: 36px;
+width: 121px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+color: #FFFFFF;
+background: #0029FF;
+border-radius: 10px;
+border: none;
+}
+.task{
+  position: absolute;
+  width: 1066px;
+  height: 135px;
+  left: 187px;
+  top: 187px;
+  background: #E9ECEF;
+  border-radius: 5px;
+}
+.task-group{
+width: 1012px;
+height: 85px;
+left: 214px;
+top: 212px;
+}
+.task-detail{
+  /* position: absolute; */
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.task-title{
+/* Explore the world of management */
+position: absolute;
+width: 374.05px;
+height: 30px;
+left: 2rem;
+top: 212px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.02em;
+color: #000000;
+}
+.task-description{
+position: absolute;
+width: 1012px;
+height: 45px;
+left: 214px;
+top: 252px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+
+
+.asset-container{
+  /* position: relative; */
+  margin-top: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card{
+  /* position: relative;   */
+  width: 480px;
+  height: 580px;
+  margin-left: 6rem;
+  display: flex;
+  flex-direction: column;
+  background: #FDFDFD;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+.card_title{
+  width: 480px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  background: #000000;
+  color: #FDFDFD;
+  border-radius: 15px 15px 0px 0px;
+}
+
